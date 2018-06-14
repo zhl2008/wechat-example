@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><h1>Welcome to Haozigege's unknown battle ground !</h1>
